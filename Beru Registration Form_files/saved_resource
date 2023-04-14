@@ -1,0 +1,8 @@
+@font-face {
+ font-family: "Architects Daughter";
+ src: url(https://cdn.jotfor.ms/fonts/ArchitectsDaughter/fonts/Architects_Daughter-Regular.woff2) format("woff2"), url(https://cdn.jotfor.ms/fonts/ArchitectsDaughter/fonts/Architects_Daughter-Regular.woff) format("woff");
+ font-display: swap;
+ font-style: normal;
+ font-weight: 400;
+}
+
